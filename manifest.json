@@ -1,0 +1,42 @@
+{
+  "name": "Simulador de Gravador de Áudio",
+  "short_name": "Gravador",
+  "description": "Simule a gravação de áudio com um clique e segure.",
+  "start_url": "/missão_112/",
+  "scope": "/missão_112/",
+  "id": "/missão_112/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "lang": "pt-BR",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/missão_112/img/483038.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/missão_112/img/483038.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+
+    },
+    {
+      "src": "/missão_112/img/483038.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+
+      "src": "/missão_112/img/483038.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+
+    }
+  ]
+}
